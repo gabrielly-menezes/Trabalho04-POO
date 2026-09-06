@@ -1,6 +1,8 @@
 package alessio;
 
 import java.util.ArrayList;
+import alessio.*;
+
 import java.util.List;
 
 public class Div extends ElementoHTML {

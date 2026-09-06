@@ -1,5 +1,8 @@
 package alessio;
 
+import alessio.*;
+
+
 public class Paragrafo extends ElementoHTML {
     private String texto;
 
